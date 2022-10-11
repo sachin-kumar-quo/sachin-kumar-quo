@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sachin-kumar-quo
 - 👀 I’m interested in learning and growing
-- 🌱 I’m currently learning React/React-Native
-- 💞️ I’m looking to collaborate on react-native projects
+- 🌱 I’m currently Working as Software Engineer
 - 📫 How to reach me kumar360.sachin@gmail.com
 
 <!---
